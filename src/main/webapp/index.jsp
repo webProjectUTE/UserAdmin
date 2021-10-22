@@ -61,7 +61,7 @@
 						class="fab fa-java sidebar-icon text-white"></i> <span
 						class="sidebar-text text-white">Download</span>
 				</a></li>
-				<li><a href="https://nhatsang-cart.herokuapp.com/" class="sidebar-item"> <i
+				<li><a href="https://nhatsang-cart.herokuapp.com/loadProducts" class="sidebar-item"> <i
 						class="fab fa-java sidebar-icon text-white"></i> <span
 						class="sidebar-text text-white">Cart</span>
 				</a></li>
